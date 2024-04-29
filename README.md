@@ -5,7 +5,7 @@ I am deeply passionate about cybersecurity, driven by a relentless dedication to
 
 ## Objective
 
-My journey in BBIT has ignited a deep passion for cybersecurity, shaping my career aspirations towards becoming a dedicated professional in the field. I am driven to transition into cybersecurity, with a particular focus on joining a Security Operations Center (SOC) as an Analyst. Eager to leverage my skills and knowledge to contribute meaningfully to protecting digital assets and combating cyber threats. I am committed to continuous growth and development in this dynamic and vital sector.
+My journey in Tech has sparked a profound passion for cybersecurity, propelling me toward a career dedicated to protecting digital assets and combating cyber threats. With a focus on joining a Security Operations Center (SOC) as an Analyst, I am eager to leverage my skills in monitoring, detecting, and responding to security incidents. Additionally, I am driven to expand my expertise in penetration testing, further enhancing my ability to safeguard organizations against evolving cyber risks. Committed to continuous growth and development, I am poised to make meaningful contributions to the dynamic and vital field of cybersecurity.
 
 ## Skills
 
