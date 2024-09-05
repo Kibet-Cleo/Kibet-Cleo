@@ -53,5 +53,5 @@ My journey in Tech has sparked a profound passion for cybersecurity, propelling 
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- <a hrref="(https://github.com/Kibet-Cleo/MYDFIR-30-Day-SOC-Analyst-Challenge/tree/main)>MYDFIR 30 Day SOC Analyst Challenge</a>
+- <a hrref="https://github.com/Kibet-Cleo/MYDFIR-30-Day-SOC-Analyst-Challenge/tree/main>MYDFIR 30 Day SOC Analyst Challenge</a>
 
