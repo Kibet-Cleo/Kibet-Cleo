@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#0078D7;">Kibet Cleophas</span></h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#0078D7;">Cleophas Kibet</span></h1>
 <p align="center">
     <a href="https://linkedin.com/in/kibetcleophas/">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
