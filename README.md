@@ -20,7 +20,7 @@ I am deeply passionate about cybersecurity, driven by a relentless dedication to
 
 ### 🎯 Objective
 
-My journey in tech has sparked a profound passion for cybersecurity, propelling me toward a career dedicated to protecting digital assets and combating cyber threats. I aim to join a **Security Operations Center (SOC)** as an Analyst, leveraging my skills in monitoring, detecting, and responding to incidents — while expanding into **penetration testing** to strengthen my defensive and offensive capabilities. I’m committed to **continuous growth** and making meaningful contributions in this dynamic field.
+My journey in technology has sparked a profound passion for cybersecurity, propelling me toward a career dedicated to protecting digital assets and combating cyber threats. With a focus on joining a Security Operations Center (SOC) as an Analyst, I am eager to leverage my skills in monitoring, detecting, and responding to security incidents. Additionally, I am driven to expand my expertise in penetration testing, further enhancing my ability to safeguard organizations against evolving cyber risks. Committed to continuous growth and development, I am poised to make meaningful contributions to the dynamic and vital field of cybersecurity.
 
 ---
 
