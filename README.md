@@ -14,16 +14,13 @@
 
 ### 💬 About Me
 
-I am deeply passionate about **cybersecurity**, driven by a relentless dedication to safeguarding digital assets and mitigating emerging threats.  
-With a keen eye for detail and a knack for problem-solving, I thrive on the challenge of securing complex systems and networks. I’m committed to **continuous learning and innovation** to stay ahead of evolving cyber risks.
+I am deeply passionate about cybersecurity, driven by a relentless dedication to safeguarding digital assets and mitigating emerging threats. With a keen eye for detail and a knack for problem-solving, I thrive on the challenge of securing complex systems and networks. Eager to stay ahead of the curve in this dynamic field, I am committed to continuous learning and innovation to protect against evolving cyber risks.
 
 ---
 
 ### 🎯 Objective
 
-My journey in tech has sparked a profound passion for cybersecurity, propelling me toward a career dedicated to protecting digital assets and combating cyber threats.  
-I aim to join a **Security Operations Center (SOC)** as an Analyst, leveraging my skills in monitoring, detecting, and responding to incidents — while expanding into **penetration testing** to strengthen my defensive and offensive capabilities.  
-I’m committed to **continuous growth** and making meaningful contributions in this dynamic field.
+My journey in tech has sparked a profound passion for cybersecurity, propelling me toward a career dedicated to protecting digital assets and combating cyber threats. I aim to join a **Security Operations Center (SOC)** as an Analyst, leveraging my skills in monitoring, detecting, and responding to incidents — while expanding into **penetration testing** to strengthen my defensive and offensive capabilities. I’m committed to **continuous growth** and making meaningful contributions in this dynamic field.
 
 ---
 
