@@ -30,7 +30,7 @@ I’m committed to **continuous growth** and making meaningful contributions in 
 ### 📄 Resume
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/https://github.com/Kibet-Cleo/Kibet-Cleo/blob/main/Cleophas%20Kibet%20-%20Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/Kibet-Cleo/Kibet-Cleo/main/Cleophas%20Kibet%20-%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_My_Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume" />
   </a>
 </p>
