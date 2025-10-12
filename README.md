@@ -67,7 +67,7 @@ I’m committed to **continuous growth** and making meaningful contributions in 
 
 #### 📊 SIEM
 <div align="center">
-     <img src="https://img.shields.io/badge/-CrowdStrike-EF3124?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+     <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-EF3124?style=for-the-badge&logo=crowdstrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
