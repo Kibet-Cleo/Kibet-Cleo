@@ -11,11 +11,10 @@
 
 ---
 
-### 💬 About Me
+# Hello, I'm Kibet Cleophas
+<a href="https://linkedin.com/in/kibetcleophas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am deeply passionate about **cybersecurity**, driven by a relentless dedication to safeguarding digital assets and mitigating emerging threats.  
-With a keen eye for detail and a knack for problem-solving, I thrive on the challenge of securing complex systems and networks.  
-I’m committed to **continuous learning and innovation** to stay ahead of evolving cyber risks.
+I am a cybersecurity professional driven by a strong commitment to protecting digital assets and mitigating emerging threats. With a sharp analytical mindset and a passion for solving complex challenges, I focus on identifying vulnerabilities, strengthening system defenses, and ensuring operational resilience. I continuously seek to expand my expertise in security monitoring, incident response, and automation to stay ahead of the evolving threat landscape and contribute effectively to any organization’s security posture.
 
 ---
 
