@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/kibetcleophas/">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/kibetcleophas">
+    <a href="https://github.com/Kibet-Cleo">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
 </p>
